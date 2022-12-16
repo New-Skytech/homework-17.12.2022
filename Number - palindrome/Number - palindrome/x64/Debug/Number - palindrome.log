@@ -1,0 +1,3 @@
+﻿  Number - palindrome.cpp
+C:\Users\n1249\source\repos\Number - palindrome\Number - palindrome\Number - palindrome.cpp(9,24): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Number - palindrome.vcxproj -> C:\Users\n1249\source\repos\Number - palindrome\x64\Debug\Number - palindrome.exe
